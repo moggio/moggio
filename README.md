@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @moggio
+- 👀 I’m interested in aprender...
+- 🌱 I’m currently learning pensamento computacional...
+- 📫 reach me pelo meu perfil do instragam @dudamoggio...
+
+<!---
+moggio/moggio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
